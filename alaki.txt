@@ -1,4 +1,7 @@
-alaki
+alaki01
 
 
 test22
+print("HellOo WOorLD")
+ding dong
+def __init__(self, brand, model, color)
